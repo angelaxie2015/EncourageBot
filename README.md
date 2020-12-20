@@ -1,6 +1,6 @@
 # EncourageBot
 
-##Installation
+## Installation
 
 hosted on discord
 written in repl.it
